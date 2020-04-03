@@ -1,0 +1,33 @@
+#0
+Html  = HyperText Markup Language
+		Document that contains text ^
+Every tag (<body >) has a closing tag (</body>)
+<BR> = Line break - Empty element (Replaces end tag in some cases)
+
+#1
+
+<!doctype html> begins the webpage 
+Titles are embedded in the head tags
+The <h> tag is used to make new sections on your webpage
+
+#2
+
+Line breaks (<BR>)  can be used to make spaces on the webpage
+Comments can be hidden on the head page if an exclamation point is added onto the tag 
+Spaces can be included in tags but they only show with the line breaks
+
+       
+#3 
+You can make an unordered list with the <ul> tag
+Ordered lists can be made with the <ol> tag
+The <li> tag is used to create the items on the list 
+
+#4
+The entire table will be embedded in <table> tag
+The <tr> tag is used to identify a table row
+The <td> tag is used to put information in the table
+
+#5
+Use an anchor, or <a>, tag to create a weblink
+Href tells your <a> element where the link goes
+A link can be added into your website like this: <a href=” link goes here “> Additional text goes here </a>
